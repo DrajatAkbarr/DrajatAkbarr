@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Hello Word! I'm DrajatAkbar 👋
+
 <!--
 **DrajatAkbarr/DrajatAkbarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +12,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning on **HTML,PYTHON,KALI LINUX**
+
+![CODING](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjE3NGNqcnNybDU1eGVuZjE2N3htdzF5Nzk5N2k2a3pucm5oa2JyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
