@@ -1,30 +1,40 @@
+# Hi there, I'm Drajat Akbar 👋
 
+### 🚀 Backend Developer & Cybersecurity Enthusiast
 
-![Drajat Akbar](img/github-header-banner.png)
+I am an Informatics student at **Telkom University Surabaya** focused on building secure and scalable systems. My passion lies in the intersection of Software Engineering and Network Security.
 
-<!--
-**DrajatAkbarr/DrajatAkbarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Current Project:** Building a **DNS Exfiltration Detection Tool** using Go.
+- 💻 **Core Stack:** Golang, Python, R, and PHP (Laravel).
+- 🛡️ **Security Focus:** Penetration Testing, System Hardening, and DevSecOps.
+- ⚡ **Approach:** I don't just write code that works; I write code that is secure and optimized.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Arsenal
 
-- 🌱 I’m currently learning on **HTML | PYTHON | KALI LINUX**
+**Backend & Systems**
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
-##### Skills
+**Security & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=kali,bash,htmx,powershell)](https://skillicons.dev)
+**Data Analysis**
+<p>
+  <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+---
+
+### 📊 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/drajatakbar/)
