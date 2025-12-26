@@ -54,8 +54,4 @@
 <br/>
 <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=DrajatAkbarr&show_icons=true&theme=radical&hide=stars,contribs" height="150" alt="stats" />
-
 </div>
