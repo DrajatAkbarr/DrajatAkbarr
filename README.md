@@ -1,31 +1,39 @@
 <div align="center">
 
-# Hi there, I'm Drajat Akbar 👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Enthusiast;Building+Secure+Systems" alt="Typing Animation" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
+      <br/><br/>
+      <h2>Hi, I'm <br> Drajat Akbar</h2>
+      <a href="https://www.linkedin.com/in/drajatakbar/">
+        <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+      </a>
+    </td>
+    <td align="left" width="70%">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3366CC&width=500&lines=Backend+Developer;Cybersecurity+Enthusiast;Building+Secure+Systems" alt="Typing Animation" />
+      </a>
+      <br/><br/>
+      I am an Informatics student at <b>Telkom University Surabaya</b> focused on the intersection of Software Engineering and Network Security.
+      <br/><br/>
+      Currently working on:
+      <br/>
+      🔭 <b>DNS Exfiltration Detection Tool</b> (Go)
+      <br/>
+      🛡️ <b>Focus:</b> Penetration Testing & DevSecOps
+      <br/>
+      ⚡ <b>Mindset:</b> Secure by Design, not by Chance.
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-I am an Informatics student at **Telkom University Surabaya** focused on building secure and scalable systems.<br/>
-My passion lies in the intersection of Software Engineering and Network Security.
+<h3>🛠️ Technical Arsenal</h3>
 
+<img src="https://img.shields.io/badge/Backend_&_Systems-2C3E50?style=for-the-badge&logo=server&logoColor=white" />
 <br/>
-
-<p align="left">
-  🔭 <b>Current Project:</b> Building a <b>DNS Exfiltration Detection Tool</b> using Go.<br/>
-  💻 <b>Core Stack:</b> Golang, Python, R, and PHP (Laravel).<br/>
-  🛡️ <b>Security Focus:</b> Penetration Testing, System Hardening, and DevSecOps.<br/>
-  ⚡ <b>Approach:</b> I don't just write code that works; I write code that is secure and optimized.
-</p>
-
-<br/>
-
-### 🛠️ Technical Arsenal
-
-**Backend & Systems**
-<br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -33,8 +41,8 @@ My passion lies in the intersection of Software Engineering and Network Security
 
 <br/><br/>
 
-**Security & Tools**
-<br>
+<img src="https://img.shields.io/badge/Security_Ops-7A0C2E?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -42,15 +50,12 @@ My passion lies in the intersection of Software Engineering and Network Security
 
 <br/><br/>
 
-**Data Analysis**
-<br>
+<img src="https://img.shields.io/badge/Data_Analysis-1D7528?style=for-the-badge&logo=r&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 
 <br/><br/>
 
-### 📊 Connect with Me
-<a href="https://www.linkedin.com/in/drajatakbar/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=DrajatAkbarr&show_icons=true&theme=radical&hide=stars,contribs" height="150" alt="stats" />
 
 </div>
