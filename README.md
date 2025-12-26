@@ -1,6 +1,12 @@
-# Hi there, I'm Drajat Akbar 👋
+<h1 align="center">Hi there, I'm Drajat Akbar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia71/giphy.gif" width="30px"></h1>
 
-### 🚀 Backend Developer & Cybersecurity Enthusiast
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Backend+Developer;Cybersecurity+Enthusiast;Building+Secure+Systems" alt="Typing Animation" />
+  </a>
+</p>
+
+<div align="center" style="animation: fadeIn 2s;">
 
 I am an Informatics student at **Telkom University Surabaya** focused on building secure and scalable systems. My passion lies in the intersection of Software Engineering and Network Security.
 
@@ -38,3 +44,12 @@ I am an Informatics student at **Telkom University Surabaya** focused on buildin
 
 ### 📊 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/drajatakbar/)
+
+</div>
+
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+</style>
