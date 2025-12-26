@@ -35,23 +35,4 @@
 <img src="https://img.shields.io/badge/Backend_&_Systems-2C3E50?style=for-the-badge&logo=server&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Security_Ops-7A0C2E?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Data_Analysis-1D7528?style=for-the-badge&logo=r&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-
-</div>
+<img src="
