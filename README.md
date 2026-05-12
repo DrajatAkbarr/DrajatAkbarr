@@ -6,7 +6,7 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
       <br/><br/>
       <h2>Hi, I'm <br> Drajat Akbar</h2>
-      <a href="https://www.linkedin.com/in/drajatakbar/">
+      <a href="https://www.linkedin.com/in/drajat-akbar-dzakwan-3906bb3ba">
         <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin">
       </a>
     </td>
